@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ==========================
+# 빈 폴더 유지 파일
+# ==========================
+!.gitkeep
